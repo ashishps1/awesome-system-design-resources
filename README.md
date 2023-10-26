@@ -1,5 +1,5 @@
-# awesome-system-design-articles
-This repository contains System Design articles which are useful during the interview preparation and while learning Distributed Systems
+# Awesome System Design Articles
+This repository contains System Design articles and videos which are useful during the interview preparation and while learning Distributed Systems
 
 ## System Design Fundamentals
 
