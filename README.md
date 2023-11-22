@@ -1,10 +1,11 @@
-# Awesome System Design Articles
-This repository contains System Design articles and videos which are useful during the interview preparation and while learning Distributed Systems
+# Awesome System Design Resources
+This repository contains System Design resources which are useful to learn concepts and prepare for interviews.
 
 ## System Design Fundamentals
 
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
+- [Distributed Caching](https://redis.com/glossary/distributed-caching/)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
@@ -16,15 +17,19 @@ This repository contains System Design articles and videos which are useful duri
 - [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
 - [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
+- [Batch Processing vs Stream Processing](https://atlan.com/batch-processing-vs-stream-processing/)
 - [HeartBeat](https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html)
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
 - [Idempotency](https://blog.dreamfactory.com/what-is-idempotency/)
+- [Database Scaling](https://thenewstack.io/techniques-for-scaling-applications-with-a-database/)
 - [Data Replication](https://redis.com/blog/what-is-data-replication/)
 - [Data Redundancy](https://www.egnyte.com/guides/governance/data-redundancy)
 - [Database Sharding](https://www.mongodb.com/features/database-sharding-explained#)
 - [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
+- [WebSockets](https://www.pubnub.com/guides/websockets/)
+- [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
