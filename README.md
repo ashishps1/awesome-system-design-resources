@@ -36,13 +36,11 @@ This repository contains System Design resources which are useful to learn conce
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
-- [Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends)
-- [Consistent Hashing](https://newsletter.systemdesign.one/p/what-is-consistent-hashing)
-- [Scalability 101 by WhatsApp](https://newsletter.systemdesign.one/p/whatsapp-engineering)
 
 
 ## System Design Interview Problems
 ### Easy
+- [Design URL Shortener](https://systemdesign.one/url-shortening-system-design/)
 - [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 - [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
@@ -55,8 +53,6 @@ This repository contains System Design resources which are useful to learn conce
 - [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90)
 - [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
 ### Medium
-- [Design Slack](https://newsletter.systemdesign.one/p/messaging-architecture)
-- [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 - [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
 - [Design WhatsApp](https://www.youtube.com/watch?v=vvhC64hQZMk)
@@ -81,6 +77,8 @@ This repository contains System Design resources which are useful to learn conce
 - [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
 ### Hard
+- [Design Slack](https://systemdesign.one/slack-architecture/)
+- [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 - [Design Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
 - [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
 - [Design Uber](https://www.youtube.com/watch?v=umWABit-wbk)
