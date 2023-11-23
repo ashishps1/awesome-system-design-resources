@@ -40,7 +40,6 @@ This repository contains System Design resources which are useful to learn conce
 
 ## System Design Interview Problems
 ### Easy
-- [Design URL Shortener](https://systemdesign.one/url-shortening-system-design/)
 - [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 - [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
