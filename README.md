@@ -36,6 +36,7 @@ This repository contains System Design resources which are useful to learn conce
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
+- [The Complete Guide To System Design in 2023](https://www.educative.io/blog/complete-guide-to-system-design)
 
 
 ## System Design Interview Problems
