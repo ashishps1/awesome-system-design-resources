@@ -28,13 +28,18 @@ This repository contains System Design resources which are useful to learn conce
 - [Data Replication](https://redis.com/blog/what-is-data-replication/)
 - [Data Redundancy](https://www.egnyte.com/guides/governance/data-redundancy)
 - [Database Sharding](https://www.mongodb.com/features/database-sharding-explained#)
+- [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
+- [Failover](https://avinetworks.com/glossary/failover/)
 - [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
 - [WebSockets](https://www.pubnub.com/guides/websockets/)
+- [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
+- [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
 
 
