@@ -96,3 +96,11 @@ This repository contains System Design resources which are useful to learn conce
 - [Design Code Deployment System](https://www.youtube.com/watch?v=q0KGYwNbf-0)
 - [Design Distributed Cloud Storage like S3](https://www.youtube.com/watch?v=UmWtcgC96X8)
 - [Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
+
+## Must-Read Engineering Articles
+- [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- [Building In-Video Search](https://netflixtechblog.com/building-in-video-search-936766f0017c)
+- [How Canva scaled Media uploads from Zero to 50 Million per Day](https://www.canva.dev/blog/engineering/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva/)
+- [How Airbnb avoids double payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+- [Stripe’s payments APIs - The first 10 years](https://stripe.com/blog/payment-api-design)
+- [Real time messaging at Slack](https://slack.engineering/real-time-messaging/)
