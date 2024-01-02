@@ -1,5 +1,5 @@
 # Awesome System Design Resources
-This repository contains System Design resources which are useful to learn concepts and prepare for interviews.
+This repository contains resources to learn System Design concepts and prepare for interviews all using free resources.
 
 ## System Design Fundamentals
 
@@ -104,3 +104,15 @@ This repository contains System Design resources which are useful to learn conce
 - [How Airbnb avoids double payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 - [Stripe’s payments APIs - The first 10 years](https://stripe.com/blog/payment-api-design)
 - [Real time messaging at Slack](https://slack.engineering/real-time-messaging/)
+
+## Books
+- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VL1BLHB/)
+- [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
+
+## YouTube Channels
+- [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
+- [Gaurav Sen](https://www.youtube.com/@gkcs)
+- [codeKarle](https://www.youtube.com/@codeKarle)
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+- [System Design Interview](https://www.youtube.com/@SystemDesignInterview)
+- [Success in Tech](https://www.youtube.com/@SuccessinTech/videos)
