@@ -83,6 +83,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design an Analytics Platform (Metrics & Logging)](https://www.youtube.com/watch?v=kIcq1_pBQSY)
 - [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
+- [Design a Digital Wallet](https://www.youtube.com/watch?v=MCKdixWBnco)
 ### Hard
 - [Design Slack](https://systemdesign.one/slack-architecture/)
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
