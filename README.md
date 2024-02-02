@@ -36,7 +36,6 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
-- [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
 - [Serverless Architecture](https://www.datadoghq.com/knowledge-center/serverless-architecture/)
 - [Service Discovery](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
