@@ -2,7 +2,7 @@
 This repository contains resources to learn System Design concepts and prepare for interviews all using free resources.
 
 ## System Design Fundamentals
-
+- [Horizontal vs Vertical Scaling](https://www.spiceworks.com/tech/cloud/articles/horizontal-vs-vertical-cloud-scaling/)
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
@@ -16,8 +16,10 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
 - [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices)
+- [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
 - [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
+- [Synchronous vs. asynchronous communications](https://www.techtarget.com/searchapparchitecture/tip/Synchronous-vs-asynchronous-communication-The-differences)
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
 - [Batch Processing vs Stream Processing](https://atlan.com/batch-processing-vs-stream-processing/)
 - [HeartBeat](https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html)
