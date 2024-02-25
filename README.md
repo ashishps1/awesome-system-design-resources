@@ -1,4 +1,4 @@
-<img src="diagrams/system-design-github-logo.png" width="350" height="200">
+<img src="diagrams/system-design-github-logo.png" width="350" height="200" style="display: block; margin: 0 auto;">
 This repository contains resources to learn System Design concepts and prepare for interviews using free resources.
 
 ## System Design Fundamentals
