@@ -1,5 +1,5 @@
-# Awesome System Design Resources
-This repository contains resources to learn System Design concepts and prepare for interviews all using free resources.
+![logo](diagrams/system-design-github-logo.png)
+This repository contains resources to learn System Design concepts and prepare for interviews using free resources.
 
 ## System Design Fundamentals
 
@@ -48,7 +48,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
 
 ### [System Design Interview Template](interview-template.md)
-<img src="diagrams/interview-template.png" width="350" height="250">
+<img src="diagrams/interview-template.png" width="400" height="250">
 
 
 ## System Design Interview Problems
