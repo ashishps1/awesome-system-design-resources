@@ -1,6 +1,6 @@
 A 7-Step Framework to answer most System Design Interview Problems:
 
-
+![Template](diagrams/interview-template.png)
 
 𝐒𝐭𝐞𝐩 1: 𝐂𝐥𝐚𝐫𝐢𝐟𝐲 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬:
 
