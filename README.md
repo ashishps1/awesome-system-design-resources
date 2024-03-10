@@ -8,12 +8,12 @@ This repository contains resources to learn System Design concepts and prepare f
 
 ## System Design Fundamentals
 
+- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+- [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [Scalability](https://newsletter.ashishps.com/p/scalability)
 - [Horizontal vs Vertical Scaling](https://www.spiceworks.com/tech/cloud/articles/horizontal-vs-vertical-cloud-scaling/)
-- [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
-- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
