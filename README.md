@@ -7,11 +7,10 @@
 This repository contains resources to learn System Design concepts and prepare for interviews using free resources.
 
 ## System Design Fundamentals
-
-- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
-- [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [Scalability](https://newsletter.ashishps.com/p/scalability)
 - [Horizontal vs Vertical Scaling](https://www.spiceworks.com/tech/cloud/articles/horizontal-vs-vertical-cloud-scaling/)
+- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+- [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
@@ -52,6 +51,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
+- [Top 15 Tradeoffs](https://newsletter.ashishps.com/p/system-design-top-15-trade-offs)
 
 ### [System Design Interview Template](interview-template.md)
 <img src="diagrams/interview-template.png" width="400" height="250">
