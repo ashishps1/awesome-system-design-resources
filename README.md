@@ -59,7 +59,6 @@ This repository contains resources to learn System Design concepts and prepare f
 
 ## System Design Interview Problems
 ### Easy
-- [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 - [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
 - [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
@@ -70,6 +69,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design Distributed Job Scheduler](https://towardsdatascience.com/ace-the-system-design-interview-job-scheduling-system-b25693817950)
 - [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90)
 - [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
+- [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 ### Medium
 - [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
@@ -96,9 +96,6 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
 - [Design a Digital Wallet](https://www.youtube.com/watch?v=MCKdixWBnco)
 ### Hard
-- [Design Slack](https://systemdesign.one/slack-architecture/)
-- [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
-- [Design Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
 - [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
 - [Design Uber](https://www.youtube.com/watch?v=umWABit-wbk)
 - [Design Food Delivery App like Doordash](https://www.youtube.com/watch?v=iRhSAR3ldTw)
@@ -111,6 +108,9 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design Code Deployment System](https://www.youtube.com/watch?v=q0KGYwNbf-0)
 - [Design Distributed Cloud Storage like S3](https://www.youtube.com/watch?v=UmWtcgC96X8)
 - [Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
+- [Design Slack](https://systemdesign.one/slack-architecture/)
+- [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
+- [Design Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
 
 ## Must-Read Engineering Articles
 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
