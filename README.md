@@ -64,6 +64,7 @@ This repository contains resources to learn System Design concepts and prepare f
 ### Easy
 - [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 - [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
+- [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
 - [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
 - [Design Vending Machine](https://www.youtube.com/watch?v=D0kDMUgo27c)
@@ -72,7 +73,6 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design Distributed Job Scheduler](https://towardsdatascience.com/ace-the-system-design-interview-job-scheduling-system-b25693817950)
 - [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90)
 - [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
-- [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 ### Medium
 - [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
@@ -105,6 +105,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design Google Docs](https://www.youtube.com/watch?v=2auwirNBvGg)
 - [Design Google Maps](https://www.youtube.com/watch?v=jk3yvVfNvds)
 - [Design Zoom](https://www.youtube.com/watch?v=G32ThJakeHk)
+- [Design Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
 - [Design File Sharing System like Dropbox](https://www.youtube.com/watch?v=U0xTu6E2CT8)
 - [Design Ticket Booking System like BookMyShow](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
 - [Design Distributed Web Crawler](https://www.youtube.com/watch?v=BKZxZwUgL3Y)
@@ -113,7 +114,6 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
 - [Design Slack](https://systemdesign.one/slack-architecture/)
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
-- [Design Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
 
 ## Must-Read Engineering Articles
 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
