@@ -10,6 +10,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Scalability](https://newsletter.ashishps.com/p/scalability)
 - [Horizontal vs Vertical Scaling](https://www.spiceworks.com/tech/cloud/articles/horizontal-vs-vertical-cloud-scaling/)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+- [Databases](https://newsletter.ashishps.com/p/15-types-of-databases-and-when-to)
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
