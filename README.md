@@ -56,7 +56,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
 
-### [System Design Interview Template](interview-template.md)
+### [How to Answer a System Design Interview Problem](https://newsletter.ashishps.com/p/how-to-answer-a-system-design-interview-problem)
 <img src="diagrams/interview-template.png" width="400" height="250">
 
 
