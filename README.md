@@ -54,7 +54,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
 
-## System Design Architecture Patterns
+## System Design Architectural Patterns
 - [Client-Server Architecture](https://www.redswitches.com/blog/client-server-architecture/)
 - [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
 - [Serverless Architecture](https://www.datadoghq.com/knowledge-center/serverless-architecture/)
