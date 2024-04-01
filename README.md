@@ -13,7 +13,6 @@ This repository contains resources to learn System Design concepts and prepare f
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
 - [Consistent Hashing](https://arpitbhayani.me/blogs/consistent-hashing/)
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
-- [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
 - [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
 - [Synchronous vs. asynchronous communications](https://www.techtarget.com/searchapparchitecture/tip/Synchronous-vs-asynchronous-communication-The-differences)
@@ -22,7 +21,6 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
-- [Serverless Architecture](https://www.datadoghq.com/knowledge-center/serverless-architecture/)
 - [Service Discovery](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
@@ -56,9 +54,18 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
 
-### [How to Answer a System Design Interview Problem](https://newsletter.ashishps.com/p/how-to-answer-a-system-design-interview-problem)
+## System Design Architecture Patterns
+- [Client-Server Architecture](https://www.redswitches.com/blog/client-server-architecture/)
+- [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
+- [Serverless Architecture](https://www.datadoghq.com/knowledge-center/serverless-architecture/)
+- [Event-Driven Architecture](https://www.confluent.io/learn/event-driven-architecture/)
+- [Peer-to-Peer (P2P) Architecture](https://www.spiceworks.com/tech/networking/articles/what-is-peer-to-peer/)
+
+
+## How to Answer a System Design Interview Problem
 <img src="diagrams/interview-template.png" width="400" height="250">
 
+### [Read the Full Article](https://newsletter.ashishps.com/p/how-to-answer-a-system-design-interview-problem)
 
 ## System Design Interview Problems
 ### Easy
