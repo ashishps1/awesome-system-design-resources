@@ -6,7 +6,7 @@
 </p>
 This repository contains resources to learn System Design concepts and prepare for interviews using free resources.
 
-## System Design Key Concepts
+## 📌 System Design Key Concepts
 - [Scalability](https://newsletter.ashishps.com/p/scalability)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
@@ -26,7 +26,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 - [Top 15 Tradeoffs](https://newsletter.ashishps.com/p/system-design-top-15-trade-offs)
 
-## System Design Building Blocks
+## 🛠️ System Design Building Blocks
 - [Horizontal vs Vertical Scaling](https://www.spiceworks.com/tech/cloud/articles/horizontal-vs-vertical-cloud-scaling/)
 - [Databases](https://newsletter.ashishps.com/p/15-types-of-databases-and-when-to)
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
@@ -54,7 +54,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
 
-## System Design Architectural Patterns
+## 🖇️ System Design Architectural Patterns
 - [Client-Server Architecture](https://www.redswitches.com/blog/client-server-architecture/)
 - [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
 - [Serverless Architecture](https://www.datadoghq.com/knowledge-center/serverless-architecture/)
@@ -62,12 +62,12 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Peer-to-Peer (P2P) Architecture](https://www.spiceworks.com/tech/networking/articles/what-is-peer-to-peer/)
 
 
-## How to Answer a System Design Interview Problem
+## ✅ How to Answer a System Design Interview Problem
 <img src="diagrams/interview-template.png" width="400" height="250">
 
 ### [Read the Full Article](https://newsletter.ashishps.com/p/how-to-answer-a-system-design-interview-problem)
 
-## System Design Interview Problems
+## 💻 System Design Interview Problems
 ### Easy
 - [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 - [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
@@ -122,7 +122,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design Slack](https://systemdesign.one/slack-architecture/)
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 
-## Must-Read Engineering Articles
+## 📜 Must-Read Engineering Articles
 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 - [Building In-Video Search at Netflix](https://netflixtechblog.com/building-in-video-search-936766f0017c)
 - [How Canva scaled Media uploads from Zero to 50 Million per Day](https://www.canva.dev/blog/engineering/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva/)
@@ -130,7 +130,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Stripe’s payments APIs - The first 10 years](https://stripe.com/blog/payment-api-design)
 - [Real time messaging at Slack](https://slack.engineering/real-time-messaging/)
 
-## Must-Read Distributed Systems Papers
+## 🗞️ Must-Read Distributed Systems Papers
 - [Paxos: The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 - [MapReduce: Simplified Data Processing on Large Clusters](https://research.google.com/archive/mapreduce-osdi04.pdf)
 - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
@@ -142,11 +142,11 @@ This repository contains resources to learn System Design concepts and prepare f
 - [The Log-Structured Merge-Tree (LSM-Tree)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 - [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
 
-## Books
+## 📚 Books
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VL1BLHB/)
 - [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
 
-## YouTube Channels
+## 📺 YouTube Channels
 - [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
 - [Gaurav Sen](https://www.youtube.com/@gkcs)
 - [codeKarle](https://www.youtube.com/@codeKarle)
