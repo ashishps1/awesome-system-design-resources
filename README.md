@@ -11,7 +11,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
 - [ACID Transactions](https://redis.com/glossary/acid-transactions/)
-- [Consistent Hashing](https://arpitbhayani.me/blogs/consistent-hashing/)
+- [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
 - [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
