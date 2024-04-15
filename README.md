@@ -27,7 +27,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Top 15 Tradeoffs](https://newsletter.ashishps.com/p/system-design-top-15-trade-offs)
 
 ## 🛠️ System Design Building Blocks
-- [Horizontal vs Vertical Scaling](https://www.spiceworks.com/tech/cloud/articles/horizontal-vs-vertical-cloud-scaling/)
+- [Vertical vs Horizontal Scaling](https://newsletter.ashishps.com/p/system-design-vertical-vs-horizontal-scaling)
 - [Databases](https://newsletter.ashishps.com/p/15-types-of-databases-and-when-to)
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
