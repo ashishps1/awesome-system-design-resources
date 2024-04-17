@@ -28,7 +28,7 @@ This repository contains resources to learn System Design concepts and prepare f
 
 ## 🛠️ System Design Building Blocks
 - [Vertical vs Horizontal Scaling](https://newsletter.ashishps.com/p/system-design-vertical-vs-horizontal-scaling)
-- [Databases](https://newsletter.ashishps.com/p/15-types-of-databases-and-when-to)
+- [Databases](https://newsletter.ashishps.com/p/15-types-of-databases)
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
