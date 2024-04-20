@@ -37,7 +37,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
 - [Database Index](https://www.progress.com/tutorials/odbc/using-indexes)
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
-- [HeartBeat](https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html)
+- [HeartBeats](https://newsletter.ashishps.com/p/heartbeats-in-distributed-systems)
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
 - [Idempotency](https://blog.dreamfactory.com/what-is-idempotency/)
 - [Database Scaling](https://thenewstack.io/techniques-for-scaling-applications-with-a-database/)
