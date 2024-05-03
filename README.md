@@ -154,4 +154,4 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [System Design Interview](https://www.youtube.com/@SystemDesignInterview)
 - [Success in Tech](https://www.youtube.com/@SuccessinTech/videos)
 ---
-### If you found this repository helpful, you can support my work [here](https://buymeacoffee.com/ashishps).
+### If you found this repository helpful, you can show your support by [buying me a coffee](https://buymeacoffee.com/ashishps).
