@@ -35,7 +35,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
-- [Database Index](https://www.progress.com/tutorials/odbc/using-indexes)
+- [Database Index](https://newsletter.ashishps.com/p/a-detailed-guide-on-database-indexes)
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
 - [HeartBeats](https://newsletter.ashishps.com/p/heartbeats-in-distributed-systems)
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
