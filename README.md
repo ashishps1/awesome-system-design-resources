@@ -17,7 +17,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
 - [Synchronous vs. asynchronous communications](https://www.techtarget.com/searchapparchitecture/tip/Synchronous-vs-asynchronous-communication-The-differences)
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
-- [Batch Processing vs Stream Processing](https://atlan.com/batch-processing-vs-stream-processing/)
+- [Batch Processing vs Stream Processing](https://newsletter.ashishps.com/p/d9442268-03d8-4f55-a103-7a3d4fb54661)
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
