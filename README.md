@@ -52,7 +52,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-- [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
+- [Checksum](https://newsletter.ashishps.com/p/6e505422-4291-4b21-99aa-9584c1b0b0b7)
 
 ## 🖇️ System Design Architectural Patterns
 - [Client-Server Architecture](https://www.redswitches.com/blog/client-server-architecture/)
