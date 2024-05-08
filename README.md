@@ -122,9 +122,6 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Design Slack](https://systemdesign.one/slack-architecture/)
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 
-## 📇 Courses
-- [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers?aff=BZyO)
-
 ## 📜 Must-Read Engineering Articles
 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 - [Building In-Video Search at Netflix](https://netflixtechblog.com/building-in-video-search-936766f0017c)
@@ -156,5 +153,3 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [System Design Interview](https://www.youtube.com/@SystemDesignInterview)
 - [Success in Tech](https://www.youtube.com/@SuccessinTech/videos)
----
-### If you found this repository helpful, you can show your support by [buying me a coffee](https://buymeacoffee.com/ashishps).
