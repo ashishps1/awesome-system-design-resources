@@ -152,4 +152,5 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [codeKarle](https://www.youtube.com/@codeKarle)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [System Design Interview](https://www.youtube.com/@SystemDesignInterview)
+- [sudoCODE](https://www.youtube.com/@sudocode)
 - [Success in Tech](https://www.youtube.com/@SuccessinTech/videos)
