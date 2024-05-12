@@ -44,6 +44,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Data Replication](https://redis.com/blog/what-is-data-replication/)
 - [Data Redundancy](https://www.egnyte.com/guides/governance/data-redundancy)
 - [Database Sharding](https://newsletter.ashishps.com/p/what-is-database-sharding)
+- [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices)
 - [Failover](https://avinetworks.com/glossary/failover/)
 - [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
