@@ -33,7 +33,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
-- [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
+- [Load Balancing](https://newsletter.ashishps.com/p/load-balancing-algorithms-explained-with-code)
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
 - [Database Index](https://newsletter.ashishps.com/p/a-detailed-guide-on-database-indexes)
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
