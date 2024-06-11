@@ -146,6 +146,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 ## 📚 Books
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VL1BLHB/)
 - [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
+- [The System Design Interview, 2nd Edition](https://amzn.to/3yYlFjX)
 
 ## 📺 YouTube Channels
 - [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
