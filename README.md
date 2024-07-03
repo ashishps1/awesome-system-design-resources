@@ -105,7 +105,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Design an Analytics Platform (Metrics & Logging)](https://www.youtube.com/watch?v=kIcq1_pBQSY)
 - [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
-- [Design a Digital Wallet](https://www.youtube.com/watch?v=MCKdixWBnco)
+- [Design a Digital Wallet](https://www.youtube.com/watch?v=4ijjIUeq6hE)
 ### Hard
 - [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
 - [Design Uber](https://www.youtube.com/watch?v=umWABit-wbk)
