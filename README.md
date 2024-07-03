@@ -40,7 +40,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems)
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
 - [Idempotency](https://blog.dreamfactory.com/what-is-idempotency/)
-- [Database Scaling](https://thenewstack.io/techniques-for-scaling-applications-with-a-database/)
+- [Database Scaling](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
 - [Data Replication](https://redis.com/blog/what-is-data-replication/)
 - [Data Redundancy](https://www.egnyte.com/guides/governance/data-redundancy)
 - [Database Sharding](https://blog.algomaster.io/p/what-is-database-sharding)
