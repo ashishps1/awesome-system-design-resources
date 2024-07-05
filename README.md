@@ -127,7 +127,6 @@ This repository contains resources to learn System Design concepts and prepare f
 ## 📇 Courses
 - [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers?aff=BZyO)
 - [System Design Interview Prep Crash Course](https://www.educative.io/courses/system-design-interview-prep-crash-course?aff=BZyO)
-- [Practice Writing Distributed Software](https://app.codecrafters.io/join?via=ashishps1)
 
 ## 📜 Must-Read Engineering Articles
 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
