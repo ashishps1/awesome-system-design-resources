@@ -125,8 +125,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 
 ## 📇 Courses
-- [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers?aff=BZyO)
-- [System Design Interview Prep Crash Course](https://www.educative.io/courses/system-design-interview-prep-crash-course?aff=BZyO)
+- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview/?aff=mopp8k)
 
 ## 📜 Must-Read Engineering Articles
 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
