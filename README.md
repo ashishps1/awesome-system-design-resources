@@ -127,6 +127,19 @@ This repository contains resources to learn System Design concepts and prepare f
 ## 📇 Courses
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview/?aff=mopp8k)
 
+## 📚 Books
+- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VL1BLHB/)
+- [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
+
+## 📺 YouTube Channels
+- [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
+- [Gaurav Sen](https://www.youtube.com/@gkcs)
+- [codeKarle](https://www.youtube.com/@codeKarle)
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+- [System Design Interview](https://www.youtube.com/@SystemDesignInterview)
+- [sudoCODE](https://www.youtube.com/@sudocode)
+- [Success in Tech](https://www.youtube.com/@SuccessinTech/videos)
+
 ## 📜 Must-Read Engineering Articles
 - [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 - [Building In-Video Search at Netflix](https://netflixtechblog.com/building-in-video-search-936766f0017c)
@@ -146,16 +159,3 @@ This repository contains resources to learn System Design concepts and prepare f
 - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 - [The Log-Structured Merge-Tree (LSM-Tree)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 - [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
-
-## 📚 Books
-- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VL1BLHB/)
-- [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
-
-## 📺 YouTube Channels
-- [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
-- [Gaurav Sen](https://www.youtube.com/@gkcs)
-- [codeKarle](https://www.youtube.com/@codeKarle)
-- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
-- [System Design Interview](https://www.youtube.com/@SystemDesignInterview)
-- [sudoCODE](https://www.youtube.com/@sudocode)
-- [Success in Tech](https://www.youtube.com/@SuccessinTech/videos)
