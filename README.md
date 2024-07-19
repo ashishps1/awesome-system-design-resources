@@ -9,13 +9,11 @@ This repository contains resources to learn System Design concepts and prepare f
 
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
-- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [CAP Theorem](https://blog.algomaster.io/p/15f1d791-86ce-40ed-8269-962dbddbefdb)
 - [ACID Transactions](https://blog.algomaster.io/p/ecae03ba-1930-42ef-8796-83e2fa818989)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
-- [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
@@ -25,10 +23,14 @@ This repository contains resources to learn System Design concepts and prepare f
 
 ## ⚖️ System Design Tradeoffs
 - [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
+- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [Vertical vs Horizontal Scaling](https://blog.algomaster.io/p/system-design-vertical-vs-horizontal-scaling)
 - [Strong vs Eventual Consistency](https://blog.algomaster.io/p/7d9da525-fe25-4e16-94e8-8056e7c57934)
+- [Read-Through vs Write-Through Cache](https://blog.algomaster.io/p/59cae60d-9717-4e20-a59e-759e370db4e5)
+- [Long-polling vs WebSockets](https://blog.algomaster.io/p/60bfcee4-8ac5-4500-a557-a04c8cbcaf48)
 - [Synchronous vs. asynchronous communications](https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761)
 - [Batch Processing vs Stream Processing](https://blog.algomaster.io/p/d9442268-03d8-4f55-a103-7a3d4fb54661)
+- [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
 
 ## 🛠️ System Design Building Blocks
 - [Databases](https://blog.algomaster.io/p/15-types-of-databases)
@@ -64,7 +66,6 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Serverless Architecture](https://www.datadoghq.com/knowledge-center/serverless-architecture/)
 - [Event-Driven Architecture](https://www.confluent.io/learn/event-driven-architecture/)
 - [Peer-to-Peer (P2P) Architecture](https://www.spiceworks.com/tech/networking/articles/what-is-peer-to-peer/)
-
 
 ## ✅ How to Answer a System Design Interview Problem
 <img src="diagrams/interview-template.png" width="400" height="250">
