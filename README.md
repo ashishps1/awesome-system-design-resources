@@ -15,10 +15,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
-- [Strong vs Eventual Consistency](https://blog.algomaster.io/p/7d9da525-fe25-4e16-94e8-8056e7c57934)
-- [Synchronous vs. asynchronous communications](https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761)
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
-- [Batch Processing vs Stream Processing](https://blog.algomaster.io/p/d9442268-03d8-4f55-a103-7a3d4fb54661)
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
@@ -27,8 +24,14 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 - [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
 
-## 🛠️ System Design Building Blocks
+## ⚖️ System Design Tradeoffs
+- [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
 - [Vertical vs Horizontal Scaling](https://blog.algomaster.io/p/system-design-vertical-vs-horizontal-scaling)
+- [Strong vs Eventual Consistency](https://blog.algomaster.io/p/7d9da525-fe25-4e16-94e8-8056e7c57934)
+- [Synchronous vs. asynchronous communications](https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761)
+- [Batch Processing vs Stream Processing](https://blog.algomaster.io/p/d9442268-03d8-4f55-a103-7a3d4fb54661)
+
+## 🛠️ System Design Building Blocks
 - [Databases](https://blog.algomaster.io/p/15-types-of-databases)
 - [Content Delivery Network (CDN)](https://blog.algomaster.io/p/27c62e07-f25b-40ac-a397-101cc54f1f0a)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
