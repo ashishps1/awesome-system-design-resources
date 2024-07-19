@@ -22,7 +22,6 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Service Discovery](https://blog.algomaster.io/p/0204da93-f0e9-49b9-a88a-cb20b9931575)
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
-- [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
 
 ## ⚖️ System Design Tradeoffs
 - [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
