@@ -29,10 +29,10 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Read-Through vs Write-Through Cache](https://blog.algomaster.io/p/59cae60d-9717-4e20-a59e-759e370db4e5)
 - [Push vs Pull Architecture](https://blog.algomaster.io/p/af5fe2fe-9a4f-4708-af43-184945a243af)
 - [Long-polling vs WebSockets](https://blog.algomaster.io/p/60bfcee4-8ac5-4500-a557-a04c8cbcaf48)
+- [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
+- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [Synchronous vs. asynchronous communications](https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761)
 - [Batch Processing vs Stream Processing](https://blog.algomaster.io/p/d9442268-03d8-4f55-a103-7a3d4fb54661)
-- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
-- [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
 
 ## 🛠️ System Design Building Blocks
 - [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
