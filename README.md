@@ -35,7 +35,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
 
 ## 🛠️ System Design Building Blocks
-- [Databases](https://blog.algomaster.io/p/15-types-of-databases)
+- [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
 - [Content Delivery Network (CDN)](https://blog.algomaster.io/p/27c62e07-f25b-40ac-a397-101cc54f1f0a)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
@@ -46,21 +46,21 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
 - [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems)
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
-- [Idempotency](https://blog.dreamfactory.com/what-is-idempotency/)
+- [Idempotency](https://blog.algomaster.io/p/ff43e079-98db-428d-83f7-fd34697df678)
 - [Database Scaling](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
 - [Data Replication](https://redis.com/blog/what-is-data-replication/)
 - [Data Redundancy](https://blog.algomaster.io/p/489440f1-9c80-4241-9ec8-de156964c3b9)
 - [Database Sharding](https://blog.algomaster.io/p/what-is-database-sharding)
 - [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
-- [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices)
 - [Failover](https://avinetworks.com/glossary/failover/)
 - [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
 - [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
+- [Checksums](https://blog.algomaster.io/p/what-are-checksums)
 - [WebSockets](https://www.pubnub.com/guides/websockets/)
 - [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
+- [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) 
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-- [Checksums](https://blog.algomaster.io/p/what-are-checksums)
 
 ## 🖇️ System Design Architectural Patterns
 - [Client-Server Architecture](https://www.redswitches.com/blog/client-server-architecture/)
