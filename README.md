@@ -10,7 +10,7 @@ This repository contains resources to learn System Design concepts and prepare f
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
 - [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
-- [CAP Theorem](https://blog.algomaster.io/p/15f1d791-86ce-40ed-8269-962dbddbefdb)
+- [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
 - [ACID Transactions](https://blog.algomaster.io/p/ecae03ba-1930-42ef-8796-83e2fa818989)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
