@@ -130,9 +130,6 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Design Slack](https://systemdesign.one/slack-architecture/)
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 
-## 📇 Courses
-- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview/?aff=mopp8k)
-
 ## 📚 Books
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VL1BLHB/)
 - [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
