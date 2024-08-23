@@ -42,7 +42,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
 - [Load Balancing](https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code)
-- [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
+- [SQL vs NoSQL](https://blog.algomaster.io/p/5310f615-f6cc-46f4-8890-09fc82a04b7e)
 - [Database Indexes](https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes)
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
 - [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems)
