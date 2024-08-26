@@ -39,7 +39,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
 - [Content Delivery Network (CDN)](https://blog.algomaster.io/p/27c62e07-f25b-40ac-a397-101cc54f1f0a)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
-- [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
+- [Caching](https://blog.algomaster.io/p/4d7d6f8a-6803-4c7b-85ca-864c87c2cbf2)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
 - [Load Balancing](https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code)
 - [SQL vs NoSQL](https://blog.algomaster.io/p/5310f615-f6cc-46f4-8890-09fc82a04b7e)
