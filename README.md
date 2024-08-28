@@ -57,7 +57,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
 - [Message Queues](https://blog.algomaster.io/p/message-queues)
 - [Checksums](https://blog.algomaster.io/p/what-are-checksums)
-- [WebSockets](https://blog.algomaster.io/p/ba0b6155-21a1-4661-8b9e-2ccacce4fb98)
+- [WebSockets](https://blog.algomaster.io/p/websockets)
 - [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) 
