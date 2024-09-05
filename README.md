@@ -1,11 +1,10 @@
 <p align="center">
   <img src="diagrams/system-design-github-logo.png" width="350" height="200">
 </p>
-<p align="center">
-  <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
-</p>
 
 This repository contains resources to learn System Design concepts and prepare for interviews.
+
+Join [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE System Design Interview Handbook** (75 pages) in your inbox.
 
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
