@@ -4,7 +4,7 @@
 
 This repository contains free resources to learn System Design concepts and prepare for interviews.
 
-Join [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE System Design Interview Handbook** (75 pages) in your inbox.
+Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE System Design Interview Handbook** in your inbox.
 
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
