@@ -87,6 +87,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90)
 - [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
 ### Medium
+- [Design Spotify](https://blog.algomaster.io/p/design-spotify-system-design-interview)
 - [Design Distributed Job Scheduler](https://blog.algomaster.io/p/design-a-distributed-job-scheduler)
 - [Design a Scalable Notification Service](https://blog.algomaster.io/p/design-a-scalable-notification-service)
 - [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
@@ -99,7 +100,6 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Design Youtube](https://www.youtube.com/watch?v=jPKTo1iGQiE)
 - [Design Google Search](https://www.youtube.com/watch?v=CeGtqouT8eA)
 - [Design E-commerce Store like Amazon](https://www.youtube.com/watch?v=EpASu_1dUdE)
-- [Design Spotify](https://www.youtube.com/watch?v=_K-eupuDVEc)
 - [Design TikTok](https://www.youtube.com/watch?v=Z-0g_aJL5Fw)
 - [Design Shopify](https://www.youtube.com/watch?v=lEL4F_0J3l8)
 - [Design Airbnb](https://www.youtube.com/watch?v=YyOXt2MEkv4)
