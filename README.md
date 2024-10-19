@@ -54,14 +54,14 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
 - [Vertical vs Horizontal Scaling](https://blog.algomaster.io/p/system-design-vertical-vs-horizontal-scaling)
 - [Stateful vs Stateless Design](https://blog.algomaster.io/p/741dff8e-10ea-413e-8dd2-be57434917d2)
+- [Batch vs Stream Processing](https://blog.algomaster.io/p/batch-processing-vs-stream-processing)
 - [Strong vs Eventual Consistency](https://blog.algomaster.io/p/7d9da525-fe25-4e16-94e8-8056e7c57934)
 - [Read-Through vs Write-Through Cache](https://blog.algomaster.io/p/59cae60d-9717-4e20-a59e-759e370db4e5)
 - [Push vs Pull Architecture](https://blog.algomaster.io/p/af5fe2fe-9a4f-4708-af43-184945a243af)
 - [Long-polling vs WebSockets](https://blog.algomaster.io/p/60bfcee4-8ac5-4500-a557-a04c8cbcaf48)
 - [REST vs RPC](https://blog.algomaster.io/p/106604fb-b746-41de-88fb-60e932b2ff68)
-- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [Synchronous vs. asynchronous communications](https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761)
-- [Batch Processing vs Stream Processing](https://blog.algomaster.io/p/d9442268-03d8-4f55-a103-7a3d4fb54661)
+- [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 
 ## 🖇️ System Design Architectural Patterns
 - [Client-Server Architecture](https://blog.algomaster.io/p/4585cf8e-30a4-4295-936f-308a25cb716c)
