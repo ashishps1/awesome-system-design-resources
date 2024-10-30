@@ -23,13 +23,14 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 
 ## 🛠️ System Design Building Blocks
-- [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
 - [Content Delivery Network (CDN)](https://blog.algomaster.io/p/27c62e07-f25b-40ac-a397-101cc54f1f0a)
+- [Proxy vs Reverse Proxy](https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Caching](https://blog.algomaster.io/p/4d7d6f8a-6803-4c7b-85ca-864c87c2cbf2)
 - [Caching Strategies](https://blog.algomaster.io/p/top-5-caching-strategies-explained)
 - [Distributed Caching](https://blog.algomaster.io/p/distributed-caching)
 - [Load Balancing](https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code)
+- [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
 - [SQL vs NoSQL](https://blog.algomaster.io/p/5310f615-f6cc-46f4-8890-09fc82a04b7e)
 - [Database Indexes](https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes)
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
