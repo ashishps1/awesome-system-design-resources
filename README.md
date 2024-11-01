@@ -43,7 +43,6 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Database Sharding](https://blog.algomaster.io/p/what-is-database-sharding)
 - [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
 - [Failover](https://avinetworks.com/glossary/failover/)
-- [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
 - [Message Queues](https://blog.algomaster.io/p/message-queues)
 - [Checksums](https://blog.algomaster.io/p/what-are-checksums)
 - [WebSockets](https://blog.algomaster.io/p/websockets)
