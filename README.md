@@ -46,7 +46,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Message Queues](https://blog.algomaster.io/p/message-queues)
 - [Checksums](https://blog.algomaster.io/p/what-are-checksums)
 - [WebSockets](https://blog.algomaster.io/p/websockets)
-- [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
+- [Bloom Filters](https://blog.algomaster.io/p/85c95404-b346-4002-9270-feb5cfdd90ce)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) 
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
