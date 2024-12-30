@@ -134,6 +134,10 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 ## 📚 Books
 - [Designing Data-Intensive Applications](https://amzn.to/4fh2qUZ)
 
+## 📩 Newsletters
+- [AlgoMaster Newsletter](https://blog.algomaster.io/)
+- [ByteByteGo Newsletter](https://blog.bytebytego.com?r=1drwaf)
+
 ## 📺 YouTube Channels
 - [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
 - [Gaurav Sen](https://www.youtube.com/@gkcs)
