@@ -47,7 +47,7 @@ Subscribe to my [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE 
 - [Message Queues](https://blog.algomaster.io/p/message-queues)
 - [WebSockets](https://blog.algomaster.io/p/websockets)
 - [Checksums](https://blog.algomaster.io/p/what-are-checksums)
-- [API Gateway](https://www.nginx.com/learn/api-gateway/)
+- [API Gateway](https://blog.algomaster.io/p/what-is-an-api-gateway)
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) 
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 
