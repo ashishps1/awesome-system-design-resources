@@ -23,12 +23,14 @@ Subscribe to my [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE 
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 
 ## 🛠️ System Design Building Blocks
+- [APIs](https://blog.algomaster.io/p/whats-an-api)
 - [Content Delivery Network (CDN)](https://blog.algomaster.io/p/27c62e07-f25b-40ac-a397-101cc54f1f0a)
 - [Proxy vs Reverse Proxy](https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Caching](https://blog.algomaster.io/p/4d7d6f8a-6803-4c7b-85ca-864c87c2cbf2)
 - [Caching Strategies](https://blog.algomaster.io/p/top-5-caching-strategies-explained)
 - [Distributed Caching](https://blog.algomaster.io/p/distributed-caching)
+- [API Gateway](https://blog.algomaster.io/p/what-is-an-api-gateway)
 - [Load Balancing](https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code)
 - [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
 - [SQL vs NoSQL](https://blog.algomaster.io/p/sql-vs-nosql-7-key-differences)
@@ -47,7 +49,6 @@ Subscribe to my [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE 
 - [Message Queues](https://blog.algomaster.io/p/message-queues)
 - [WebSockets](https://blog.algomaster.io/p/websockets)
 - [Checksums](https://blog.algomaster.io/p/what-are-checksums)
-- [API Gateway](https://blog.algomaster.io/p/what-is-an-api-gateway)
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) 
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 
