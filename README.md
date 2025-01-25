@@ -138,7 +138,6 @@ Subscribe to my [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE 
 
 ## 📩 Newsletters
 - [AlgoMaster Newsletter](https://blog.algomaster.io/)
-- [ByteByteGo Newsletter](https://blog.bytebytego.com?r=1drwaf)
 
 ## 📺 YouTube Channels
 - [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
