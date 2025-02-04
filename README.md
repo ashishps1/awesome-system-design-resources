@@ -10,7 +10,7 @@ Subscribe to my [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE 
 - [Scalability](https://blog.algomaster.io/p/scalability)
 - [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
 - [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
-- [ACID Transactions](https://blog.algomaster.io/p/ecae03ba-1930-42ef-8796-83e2fa818989)
+- [ACID Transactions](https://blog.algomaster.io/p/what-are-acid-transactions-in-databases)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
 - [SPOF](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures)
