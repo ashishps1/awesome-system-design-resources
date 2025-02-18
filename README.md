@@ -11,7 +11,7 @@ Subscribe to my [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE 
 - [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
 - [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
 - [ACID Transactions](https://blog.algomaster.io/p/what-are-acid-transactions-in-databases)
-- [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
+- [Consistent Hashing](https://blog.algomaster.io/p/consistent-hashing-explained)
 - [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
 - [SPOF](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures)
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
