@@ -24,7 +24,7 @@ This repository contains free resources to learn System Design concepts and prep
 
 ## 🛠️ System Design Building Blocks
 - [APIs](https://blog.algomaster.io/p/whats-an-api)
-- [Content Delivery Network (CDN)](https://blog.algomaster.io/p/27c62e07-f25b-40ac-a397-101cc54f1f0a)
+- [Content Delivery Network (CDN)](https://blog.algomaster.io/p/content-delivery-networks)
 - [Proxy vs Reverse Proxy](https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Caching](https://blog.algomaster.io/p/4d7d6f8a-6803-4c7b-85ca-864c87c2cbf2)
