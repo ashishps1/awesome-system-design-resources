@@ -83,7 +83,6 @@ This repository contains free resources to learn System Design concepts and prep
 ## 💻 System Design Interview Problems
 ### Easy
 - [Design URL Shortener like TinyURL](https://blog.algomaster.io/p/design-a-url-shortener)
-- [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
 - [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
 - [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
