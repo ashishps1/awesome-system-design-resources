@@ -131,6 +131,9 @@ This repository contains free resources to learn System Design concepts and prep
 - [Design Slack](https://systemdesign.one/slack-architecture/)
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 
+## 📇 Courses
+- [Learn System Design - AlgoMaster.io](https://algomaster.io/learn/system-design/what-is-system-design)
+
 ## 📚 Books
 - [Designing Data-Intensive Applications](https://www.amazon.in/dp/9352135245)
 
