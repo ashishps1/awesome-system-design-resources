@@ -139,6 +139,7 @@ This repository contains free resources to learn System Design concepts and prep
 
 ## 📩 Newsletters
 - [AlgoMaster Newsletter](https://blog.algomaster.io/)
+- [Hello, World! Newsletter](https://hw.glich.co/)
 
 ## 📺 YouTube Channels
 - [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
