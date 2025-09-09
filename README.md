@@ -60,8 +60,8 @@ This repository contains free resources to learn System Design concepts and prep
 - [Concurrency vs Parallelism](https://blog.algomaster.io/p/concurrency-vs-parallelism)
 - [Long Polling vs WebSockets](https://blog.algomaster.io/p/long-polling-vs-websockets)
 - [Batch vs Stream Processing](https://blog.algomaster.io/p/batch-processing-vs-stream-processing)
-- [Stateful vs Stateless Design](https://blog.algomaster.io/p/741dff8e-10ea-413e-8dd2-be57434917d2)
-- [Strong vs Eventual Consistency](https://blog.algomaster.io/p/7d9da525-fe25-4e16-94e8-8056e7c57934)
+- [Stateful vs Stateless Design](https://blog.algomaster.io/p/stateful-vs-stateless-architecture)
+- [Strong vs Eventual Consistency](https://blog.algomaster.io/p/strong-vs-eventual-consistency)
 - [Read-Through vs Write-Through Cache](https://blog.algomaster.io/p/59cae60d-9717-4e20-a59e-759e370db4e5)
 - [Push vs Pull Architecture](https://blog.algomaster.io/p/af5fe2fe-9a4f-4708-af43-184945a243af)
 - [REST vs RPC](https://blog.algomaster.io/p/106604fb-b746-41de-88fb-60e932b2ff68)
@@ -69,7 +69,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 
 ## 🖇️ System Design Architectural Patterns
-- [Client-Server Architecture](https://blog.algomaster.io/p/4585cf8e-30a4-4295-936f-308a25cb716c)
+- [Client-Server Architecture](https://blog.algomaster.io/p/client-server-architecture-explained)
 - [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
 - [Serverless Architecture](https://blog.algomaster.io/p/2edeb23b-cfa5-4b24-845e-3f6f7a39d162)
 - [Event-Driven Architecture](https://www.confluent.io/learn/event-driven-architecture/)
@@ -80,7 +80,6 @@ This repository contains free resources to learn System Design concepts and prep
 ## 💻 System Design Interview Problems
 ### Easy
 - [Design URL Shortener like TinyURL](https://blog.algomaster.io/p/design-a-url-shortener)
-- [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
 - [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
 - [Design Vending Machine](https://www.youtube.com/watch?v=D0kDMUgo27c)
