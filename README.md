@@ -107,7 +107,6 @@ This repository contains free resources to learn System Design concepts and prep
 - [Design Autocomplete for Search Engines](https://www.youtube.com/watch?v=us0qySiUsGU)
 - [Design Rate Limiter](https://www.youtube.com/watch?v=mhUQe4BKZXs)
 - [Design Distributed Message Queue like Kafka](https://www.youtube.com/watch?v=iJLL-KPqBpM)
-- [Design Flight Booking System](https://www.youtube.com/watch?v=qsGcfVGvFSs)
 - [Design Online Code Editor](https://www.youtube.com/watch?v=07jkn4jUtso)
 - [Design an Analytics Platform (Metrics & Logging)](https://www.youtube.com/watch?v=kIcq1_pBQSY)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
