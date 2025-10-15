@@ -8,55 +8,71 @@ This repository contains free resources to learn System Design concepts and prep
 
 ✅ If you are new to System Design, start here: [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts)
 
-## 📌 System Design Key Concepts
-- [Scalability](https://blog.algomaster.io/p/scalability)
-- [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
+## ⚙️ Core Concepts
+- [Scalability](https://algomaster.io/learn/system-design/scalability)
+- [Availability](https://algomaster.io/learn/system-design/availability)
 - [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
-- [ACID Transactions](https://blog.algomaster.io/p/what-are-acid-transactions-in-databases)
 - [Consistent Hashing](https://blog.algomaster.io/p/consistent-hashing-explained)
-- [Rate Limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
 - [SPOF](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures)
+- [Failover](https://www.druva.com/glossary/what-is-a-failover-definition-and-related-faqs)
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
-- [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
-- [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
-- [Service Discovery](https://blog.algomaster.io/p/service-discovery-in-distributed-systems)
+
+## 🌐 Networking Fundamentals
+- [OSI Model](https://algomaster.io/learn/system-design/osi)
+- [IP Addresses](https://algomaster.io/learn/system-design/ip-address)
+- [Domain Name System (DNS)](https://blog.algomaster.io/p/how-dns-actually-works)
+- [Proxy vs Reverse Proxy](https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained)
+- [HTTP/HTTPS](https://algomaster.io/learn/system-design/http-https)
+- [TCP vs UDP](https://algomaster.io/learn/system-design/tcp-vs-udp)
+- [Load Balancing](https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code)
+- [Checksums](https://algomaster.io/learn/system-design/checksums)
+
+## 🔌 API Fundamentals
+- [APIs](https://algomaster.io/learn/system-design/what-is-an-api)
+- [API Gateway](https://blog.algomaster.io/p/what-is-an-api-gateway)
+- [WebSockets](https://blog.algomaster.io/p/websockets)
+- [Webhooks](https://algomaster.io/learn/system-design/webhooks)
+- [Idempotency](https://algomaster.io/learn/system-design/idempotency)
+- [Rate limiting](https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
+
+## 🗄️ Database Fundamentals
+- [ACID Transactions](https://algomaster.io/learn/system-design/acid-transactions)
+- [SQL vs NoSQL](https://algomaster.io/learn/system-design/sql-vs-nosql)
+- [Database Indexes](https://algomaster.io/learn/system-design/indexing)
+- [Database Sharding](https://algomaster.io/learn/system-design/sharding)
+- [Data Replication](https://redis.com/blog/what-is-data-replication/)
+- [Database Scaling](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
+- [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
+- [Bloom Filters](https://algomaster.io/learn/system-design/bloom-filters)
+- [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
+
+## ⚡ Caching Fundamentals
+- [Caching 101](https://algomaster.io/learn/system-design/what-is-caching)
+- [Caching Strategies](https://algomaster.io/learn/system-design/caching-strategies)
+- [Cache Eviction Policies](https://blog.algomaster.io/p/7-cache-eviction-strategies)
+- [Distributed Caching](https://blog.algomaster.io/p/distributed-caching)
+- [Content Delivery Network (CDN)](https://algomaster.io/learn/system-design/content-delivery-network-cdn)
+
+## 🔄 Asynchronous Communication
+- [Pub/Sub](https://algomaster.io/learn/system-design/pub-sub)
+- [Message Queues](https://algomaster.io/learn/system-design/message-queues)
+- [Change Data Capture (CDC)](https://algomaster.io/learn/system-design/change-data-capture-cdc)
+
+## 🧩 Distributed System and Microservices
+- [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems)
+- [Service Discovery](https://blog.algomaster.io/p/service-discovery-in-distributed-systems)
+- [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
+- [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) 
+- [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
+- [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 
-## 🛠️ System Design Building Blocks
-- [APIs](https://blog.algomaster.io/p/whats-an-api)
-- [Content Delivery Network (CDN)](https://blog.algomaster.io/p/content-delivery-networks)
-- [Proxy vs Reverse Proxy](https://blog.algomaster.io/p/proxy-vs-reverse-proxy-explained)
-- [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
-- [Caching](https://blog.algomaster.io/p/4d7d6f8a-6803-4c7b-85ca-864c87c2cbf2)
-- [Caching Strategies](https://blog.algomaster.io/p/top-5-caching-strategies-explained)
-- [Distributed Caching](https://blog.algomaster.io/p/distributed-caching)
-- [API Gateway](https://blog.algomaster.io/p/what-is-an-api-gateway)
-- [Load Balancing](https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code)
-- [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
-- [SQL vs NoSQL](https://blog.algomaster.io/p/sql-vs-nosql-7-key-differences)
-- [Database Indexes](https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes)
-- [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
-- [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems)
-- [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
-- [Idempotency](https://blog.algomaster.io/p/idempotency-in-distributed-systems)
-- [Database Scaling](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
-- [Data Replication](https://redis.com/blog/what-is-data-replication/)
-- [Data Redundancy](https://blog.algomaster.io/p/489440f1-9c80-4241-9ec8-de156964c3b9)
-- [Database Sharding](https://blog.algomaster.io/p/what-is-database-sharding)
-- [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
-- [Failover](https://www.druva.com/glossary/what-is-a-failover-definition-and-related-faqs)
-- [Bloom Filters](https://blog.algomaster.io/p/bloom-filters)
-- [Message Queues](https://blog.algomaster.io/p/message-queues)
-- [WebSockets](https://blog.algomaster.io/p/websockets)
-- [Checksums](https://blog.algomaster.io/p/what-are-checksums)
-- [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices) 
-- [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-
 ## ⚖️ System Design Tradeoffs
 - [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
-- [Vertical vs Horizontal Scaling](https://blog.algomaster.io/p/system-design-vertical-vs-horizontal-scaling)
+- [Vertical vs Horizontal Scaling](https://algomaster.io/learn/system-design/vertical-vs-horizontal-scaling)
 - [Concurrency vs Parallelism](https://blog.algomaster.io/p/concurrency-vs-parallelism)
 - [Long Polling vs WebSockets](https://blog.algomaster.io/p/long-polling-vs-websockets)
 - [Batch vs Stream Processing](https://blog.algomaster.io/p/batch-processing-vs-stream-processing)
@@ -69,7 +85,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 
 ## 🖇️ System Design Architectural Patterns
-- [Client-Server Architecture](https://blog.algomaster.io/p/client-server-architecture-explained)
+- [Client-Server Architecture](https://algomaster.io/learn/system-design/client-server-architecture)
 - [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
 - [Serverless Architecture](https://blog.algomaster.io/p/2edeb23b-cfa5-4b24-845e-3f6f7a39d162)
 - [Event-Driven Architecture](https://www.confluent.io/learn/event-driven-architecture/)
@@ -130,7 +146,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 
 ## 📇 Courses
-- [Learn System Design - AlgoMaster.io](https://algomaster.io/learn/system-design/what-is-system-design)
+- [Master System Design](https://algomaster.io/learn/system-design/what-is-system-design)
 
 ## 📚 Books
 - [Designing Data-Intensive Applications](https://www.amazon.in/dp/9352135245)
