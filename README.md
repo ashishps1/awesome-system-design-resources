@@ -148,6 +148,9 @@ This repository contains free resources to learn System Design concepts and prep
 ## 📇 Courses
 - [Master System Design](https://algomaster.io/learn/system-design/what-is-system-design)
 
+## 🎮 Interactive Learning
+- [System Designer](https://systemdesigner.net) - Free AI-powered system design learning platform with interactive lessons, custom learning plans, and collaborative whiteboards. Chat with AI to explore 200+ topics, practice, and build projects. Covers fundamentals, GenAI, ML systems, and 67+ technologies.
+
 ## 📚 Books
 - [Designing Data-Intensive Applications](https://www.amazon.in/dp/9352135245)
 
