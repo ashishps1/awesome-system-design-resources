@@ -91,11 +91,13 @@ This repository contains free resources to learn System Design concepts and prep
 - [Synchronous vs. asynchronous communications](https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 
-## ✅ [How to Answer a System Design Interview Problem](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
+## ✅ [How to Answer a System Design Interview Problem](https://algomaster.io/learn/system-design-interviews/answering-framework)
 
 ## 💻 System Design Interview Problems
 ### Easy
-- [Design URL Shortener like TinyURL](https://blog.algomaster.io/p/design-a-url-shortener)
+- [Design URL Shortener like TinyURL](https://algomaster.io/learn/system-design-interviews/design-url-shortener)
+- [Design Autocomplete for Search Engines](https://algomaster.io/learn/system-design-interviews/design-instagram)
+- [Design Load Balancer](https://algomaster.io/learn/system-design-interviews/design-load-balancer)
 - [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
 - [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
 - [Design Vending Machine](https://www.youtube.com/watch?v=D0kDMUgo27c)
@@ -104,11 +106,11 @@ This repository contains free resources to learn System Design concepts and prep
 - [Design Authentication System](https://www.youtube.com/watch?v=uj_4vxm9u90)
 - [Design Unified Payments Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
 ### Medium
-- [Design WhatsApp](https://blog.algomaster.io/p/design-a-chat-application-like-whatsapp)
-- [Design Spotify](https://blog.algomaster.io/p/design-spotify-system-design-interview)
+- [Design WhatsApp](https://algomaster.io/learn/system-design-interviews/design-whatsapp)
+- [Design Spotify](https://algomaster.io/learn/system-design-interviews/design-spotify)
+- [Design Instagram](https://algomaster.io/learn/system-design-interviews/design-instagram)
+- [Design Notification Service](https://algomaster.io/learn/system-design-interviews/design-notification-service)
 - [Design Distributed Job Scheduler](https://blog.algomaster.io/p/design-a-distributed-job-scheduler)
-- [Design a Scalable Notification Service](https://blog.algomaster.io/p/design-a-scalable-notification-service)
-- [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
 - [Design Facebook](https://www.youtube.com/watch?v=9-hjBGxuiEs)
 - [Design Twitter](https://www.youtube.com/watch?v=wYk0xPP_P_8)
@@ -120,7 +122,6 @@ This repository contains free resources to learn System Design concepts and prep
 - [Design TikTok](https://www.youtube.com/watch?v=Z-0g_aJL5Fw)
 - [Design Shopify](https://www.youtube.com/watch?v=lEL4F_0J3l8)
 - [Design Airbnb](https://www.youtube.com/watch?v=YyOXt2MEkv4)
-- [Design Autocomplete for Search Engines](https://www.youtube.com/watch?v=us0qySiUsGU)
 - [Design Rate Limiter](https://www.youtube.com/watch?v=mhUQe4BKZXs)
 - [Design Distributed Message Queue like Kafka](https://www.youtube.com/watch?v=iJLL-KPqBpM)
 - [Design Flight Booking System](https://www.youtube.com/watch?v=qsGcfVGvFSs)
