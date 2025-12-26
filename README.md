@@ -147,13 +147,14 @@ This repository contains free resources to learn System Design concepts and prep
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 
 ## 📇 Courses
-- [Master System Design](https://algomaster.io/learn/system-design/what-is-system-design)
-
-## 📚 Books
-- [Designing Data-Intensive Applications](https://www.amazon.in/dp/9352135245)
+- [System Design Fundamentals](https://algomaster.io/learn/system-design/what-is-system-design)
+- [System Design Interviews](https://algomaster.io/learn/system-design-interviews/introduction)
 
 ## 📩 Newsletters
 - [AlgoMaster Newsletter](https://blog.algomaster.io/)
+
+## 📚 Books
+- [Designing Data-Intensive Applications](https://www.amazon.in/dp/9352135245)
 
 ## 📺 YouTube Channels
 - [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
