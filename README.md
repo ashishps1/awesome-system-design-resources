@@ -31,6 +31,7 @@ This repository contains free resources to learn System Design concepts and prep
 ## 🔌 API Fundamentals
 - [APIs](https://algomaster.io/learn/system-design/what-is-an-api)
 - [API Gateway](https://blog.algomaster.io/p/what-is-an-api-gateway)
+- [REST vs GraphQL](https://blog.algomaster.io/p/rest-vs-graphql)
 - [WebSockets](https://blog.algomaster.io/p/websockets)
 - [Webhooks](https://algomaster.io/learn/system-design/webhooks)
 - [Idempotency](https://algomaster.io/learn/system-design/idempotency)
