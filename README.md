@@ -149,7 +149,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
 
 ## 📇 Courses
-- [System Design Fundamentals](https://algomaster.io/learn/system-design/what-is-system-design)
+- [System Design Fundamentals](https://algomaster.io/learn/system-design/course-introduction)
 - [System Design Interviews](https://algomaster.io/learn/system-design-interviews/introduction)
 
 ## 📩 Newsletters
