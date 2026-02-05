@@ -16,7 +16,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Consistent Hashing](https://blog.algomaster.io/p/consistent-hashing-explained)
 - [SPOF](https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures)
 - [Failover](https://www.druva.com/glossary/what-is-a-failover-definition-and-related-faqs)
-- [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
+- <span style="color: green;"> [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
 
 ## 🌐 Networking Fundamentals
 - [OSI Model](https://algomaster.io/learn/system-design/osi)
