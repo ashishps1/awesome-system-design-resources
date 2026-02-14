@@ -98,7 +98,7 @@ This repository contains free resources to learn System Design concepts and prep
 ## 💻 System Design Interview Problems
 ### Easy
 - [Design URL Shortener like TinyURL](https://algomaster.io/learn/system-design-interviews/design-url-shortener)
-- [Design Autocomplete for Search Engines](https://algomaster.io/learn/system-design-interviews/design-instagram)
+- [Design Autocomplete for Search Engines](https://algomaster.io/learn/system-design-interviews/design-search-autocomplete-system)
 - [Design Load Balancer](https://algomaster.io/learn/system-design-interviews/design-load-balancer)
 - [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
 - [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
