@@ -1,7 +1,7 @@
 # Awesome System Design Resources
 
 <p align="center">
-  <img src="diagrams/system-design-github-logo.png" width="350" height="200">
+  <img src="diagrams/system-design-github.png" width="350" height="200">
 </p>
 
 This repository contains free resources to learn System Design concepts and prepare for interviews.
