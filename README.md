@@ -153,6 +153,7 @@ This repository contains free resources to learn System Design concepts and prep
 
 ## 📩 Newsletters
 - [AlgoMaster Newsletter](https://blog.algomaster.io/)
+- [Hello, World! Newsletter](https://hw.glich.co/)
 
 ## 📚 Books
 - [Designing Data-Intensive Applications](https://www.amazon.in/dp/9352135245)
