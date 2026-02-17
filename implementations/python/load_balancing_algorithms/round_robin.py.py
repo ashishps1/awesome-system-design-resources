@@ -1,5 +1,7 @@
 class RoundRobin:
     def __init__(self, servers):
+        if not servers:
+            raise ValueError("servers must not be empty")
         self.servers = servers
         self.current_index = -1
 
