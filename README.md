@@ -48,7 +48,7 @@ This repository contains free resources to learn System Design concepts and prep
 - [Database Sharding](https://algomaster.io/learn/system-design/sharding)
 - [Data Replication](https://redis.com/blog/what-is-data-replication/)
 - [Database Scaling](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
-- [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
+- [Database Types](https://blog.algomaster.io/p/15-types-of-databases)
 - [Bloom Filters](https://algomaster.io/learn/system-design/bloom-filters)
 - [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
 
