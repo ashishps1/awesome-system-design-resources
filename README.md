@@ -150,6 +150,7 @@ This repository contains free resources to learn System Design concepts and prep
 ## 📇 Courses
 - [System Design Fundamentals](https://algomaster.io/learn/system-design/course-introduction)
 - [System Design Interviews](https://algomaster.io/learn/system-design-interviews/introduction)
+- [The Onsite](https://theonsite.dev) - [Paid 💵] - Timed system design interview practice with an interactive diagramming canvas, AI feedback, and reference answers.
 
 ## 📩 Newsletters
 - [AlgoMaster Newsletter](https://blog.algomaster.io/)
