@@ -10,6 +10,7 @@ This repository contains free resources to learn System Design concepts and prep
 
 ✅ If you are new to System Design, start here: [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts implementing system design patterns for multi-agent orchestration, task delegation, and distributed coordination. MIT licensed.
 ## ⚙️ Core Concepts
 - [Scalability](https://algomaster.io/learn/system-design/scalability)
 - [Availability](https://algomaster.io/learn/system-design/availability)
