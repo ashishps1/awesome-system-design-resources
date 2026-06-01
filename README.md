@@ -191,3 +191,4 @@ This repository contains free resources to learn System Design concepts and prep
 <p align="center">
   <i>If you find this resource helpful, please give it a star ⭐️ and share it with others!</i>
 </p>
+- [AI Tools Hub](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com/hub.html) - 21 free AI tools with crypto payment, no subscriptions.
