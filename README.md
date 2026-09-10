@@ -150,6 +150,7 @@ This repository contains free resources to learn System Design concepts and prep
 ## 📇 Courses
 - [System Design Fundamentals](https://algomaster.io/learn/system-design/course-introduction)
 - [System Design Interviews](https://algomaster.io/learn/system-design-interviews/introduction)
+- [Wyrcan Engineering Roadmap: 12-Stage Practitioner Curriculum](https://github.com/Wyrcan-io/roadmap)
 
 ## 📩 Newsletters
 - [AlgoMaster Newsletter](https://blog.algomaster.io/)
