@@ -28,12 +28,17 @@ class SlidingWindowCounter:
             return True
         return False
 
-# Usage example
-limiter = SlidingWindowCounter(window_size=60, max_requests=5)  # 5 requests per minute
+def main():
+    # Usage example
+    limiter = SlidingWindowCounter(window_size=60, max_requests=5)  # 5 requests per minute
 
-for _ in range(10):
-    print(limiter.allow_request())  # Will print True for the first 5 requests, then gradually become False
-    time.sleep(0.1)  # Wait a bit between requests
+    for _ in range(10):
+        print(limiter.allow_request())  # Will print True for the first 5 requests, then gradually become False
+        time.sleep(0.1)  # Wait a bit between requests
 
-time.sleep(30)  # Wait for half the window to pass
-print(limiter.allow_request())  # Might be True or False depending on the exact timing
+    time.sleep(30)  # Wait for half the window to pass
+    print(limiter.allow_request())  # Might be True or False depending on the exact timing
+
+
+if __name__ == "__main__":
+    main()

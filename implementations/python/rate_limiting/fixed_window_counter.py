@@ -22,12 +22,17 @@ class FixedWindowCounter:
             return True
         return False
 
-# Usage example
-limiter = FixedWindowCounter(window_size=60, max_requests=5)  # 5 requests per minute
+def main():
+    # Usage example
+    limiter = FixedWindowCounter(window_size=60, max_requests=5)  # 5 requests per minute
 
-for _ in range(10):
-    print(limiter.allow_request())  # Will print True for the first 5 requests, then False
-    time.sleep(0.1)  # Wait a bit between requests
+    for _ in range(10):
+        print(limiter.allow_request())  # Will print True for the first 5 requests, then False
+        time.sleep(0.1)  # Wait a bit between requests
 
-time.sleep(60)  # Wait for the window to reset
-print(limiter.allow_request())  # True
+    time.sleep(60)  # Wait for the window to reset
+    print(limiter.allow_request())  # True
+
+
+if __name__ == "__main__":
+    main()
