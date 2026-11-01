@@ -42,15 +42,15 @@ This repository contains free resources to learn System Design concepts and prep
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
 
 ## 🗄️ Database Fundamentals
+- [Databases Types](https://algomaster.io/learn/system-design/database-types)
 - [ACID Transactions](https://algomaster.io/learn/system-design/acid-transactions)
 - [SQL vs NoSQL](https://algomaster.io/learn/system-design/sql-vs-nosql)
-- [Database Indexes](https://algomaster.io/learn/system-design/indexing)
-- [Database Sharding](https://algomaster.io/learn/system-design/sharding)
-- [Data Replication](https://redis.com/blog/what-is-data-replication/)
 - [Database Scaling](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
-- [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
+- [Database Indexes](https://algomaster.io/learn/system-design/indexing)
+- [Database Partitioning](https://algomaster.io/learn/system-design/database-partitioning)
+- [Database Sharding](https://algomaster.io/learn/system-design/sharding)
+- [Database Replication](https://algomaster.io/learn/system-design/database-replication)
 - [Bloom Filters](https://algomaster.io/learn/system-design/bloom-filters)
-- [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
 
 ## ⚡ Caching Fundamentals
 - [Caching 101](https://algomaster.io/learn/system-design/what-is-caching)
@@ -62,6 +62,7 @@ This repository contains free resources to learn System Design concepts and prep
 ## 🔄 Asynchronous Communication
 - [Pub/Sub](https://algomaster.io/learn/system-design/pub-sub)
 - [Message Queues](https://algomaster.io/learn/system-design/message-queues)
+- [Message Brokers](https://algomaster.io/learn/system-design/message-brokers)
 - [Change Data Capture (CDC)](https://algomaster.io/learn/system-design/change-data-capture-cdc)
 
 ## 🧩 Distributed System and Microservices
