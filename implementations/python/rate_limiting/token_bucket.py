@@ -20,12 +20,17 @@ class TokenBucket:
             return True
         return False
 
-# Usage example
-limiter = TokenBucket(capacity=10, fill_rate=1)  # 10 tokens, refill 1 token per second
+def main():
+    # Usage example
+    limiter = TokenBucket(capacity=10, fill_rate=1)  # 10 tokens, refill 1 token per second
 
-for _ in range(15):
-    print(limiter.allow_request())  # Will print True for the first 10 requests, then False
-    time.sleep(0.1)  # Wait a bit between requests
+    for _ in range(15):
+        print(limiter.allow_request())  # Will print True for the first 10 requests, then False
+        time.sleep(0.1)  # Wait a bit between requests
 
-time.sleep(5)  # Wait for bucket to refill
-print(limiter.allow_request())  # True
+    time.sleep(5)  # Wait for bucket to refill
+    print(limiter.allow_request())  # True
+
+
+if __name__ == "__main__":
+    main()
