@@ -187,6 +187,9 @@ This repository contains free resources to learn System Design concepts and prep
 - [The Log-Structured Merge-Tree (LSM-Tree)](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 - [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
 
+## 🛠️ System Design Practice Platforms
+- [SevyDevy](https://www.sevydevy.com/interview-prep/system-design) - Free system design interview questions with requirements and scale for each (rate limiters, caches, chat apps and more), plus step-by-step practice.
+
 ---
 
 <p align="center">
