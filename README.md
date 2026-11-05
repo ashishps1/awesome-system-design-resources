@@ -148,6 +148,9 @@ This repository contains free resources to learn System Design concepts and prep
 - [Design Distributed Cloud Storage like S3](https://www.youtube.com/watch?v=UmWtcgC96X8)
 - [Design Distributed Locking Service](https://www.youtube.com/watch?v=v7x75aN9liM)
 
+## 🔎 Interactive Visualizations
+- [Learn Blazingly Fast](https://learnblazinglyfast.tech/) - Interactive visual simulations for system architecture, caching strategies, distributed state machines, and microservice patterns.
+
 ## 📇 Courses
 - [System Design Fundamentals](https://algomaster.io/learn/system-design/course-introduction)
 - [System Design Interviews](https://algomaster.io/learn/system-design-interviews/introduction)
