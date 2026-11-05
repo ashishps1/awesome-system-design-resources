@@ -151,6 +151,7 @@ This repository contains free resources to learn System Design concepts and prep
 ## 📇 Courses
 - [System Design Fundamentals](https://algomaster.io/learn/system-design/course-introduction)
 - [System Design Interviews](https://algomaster.io/learn/system-design-interviews/introduction)
+- [ScaleDojo](https://scaledojo.dev) - Interactive system design interview prep with 220+ hands-on labs (HLD, LLD, API design, GenAI/RAG)
 
 ## 📩 Newsletters
 - [AlgoMaster Newsletter](https://blog.algomaster.io/)
