@@ -155,6 +155,9 @@ This repository contains free resources to learn System Design concepts and prep
 ## 📩 Newsletters
 - [AlgoMaster Newsletter](https://blog.algomaster.io/)
 
+## 🗂️ Real Interview Questions
+- [LeakCode](https://leakcode.dev/): 51,000+ candidate-reported system design and coding interview questions from 2,000+ companies, filterable by company, role level, round type, and year.
+
 ## 📚 Books
 - [Designing Data-Intensive Applications](https://www.amazon.in/dp/9352135245)
 
